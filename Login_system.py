@@ -6,6 +6,6 @@ password = input("Enter password: ")
 if(username == "admin" and password == "pass"):
   print("Login successful")
 elif(username != "admin"):
-  print("Wrong Username")
+  print("wrong username, try again.")
 else:
-  print("Wrong Password")  
+  print("wrong password, try again.")  
