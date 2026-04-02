@@ -1,4 +1,4 @@
-light= input("Enter color of traffic light: ")
+light = input("Enter color of traffic light: ")
 
 match light:
   case "green":
