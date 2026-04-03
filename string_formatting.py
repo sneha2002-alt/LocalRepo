@@ -12,3 +12,7 @@ print("sum of {1} & {0} is {2}".format(a, b, sum))
 #value based formatting
 print("value of vars {a} & {b}".format(a=10, b=4))
 
+# f-strings => literal string interpolation
+print(f"avg of {a} & {b} is {(a+b)/2}")
+
+
