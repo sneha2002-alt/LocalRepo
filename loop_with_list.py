@@ -6,7 +6,7 @@ idx = 0
 
 for val in nums:
   if(val == x):
-    print(f"5 is found at idx = {idx}")
+    print(f"{x} is found at index = {idx}")
     break
   idx+=1
 
