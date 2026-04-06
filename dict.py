@@ -42,3 +42,7 @@ student = {
 print(student)
 print(student["subjects"])
 print(student["subjects"]["chem"])
+
+
+print(student["name"]) # error
+print(student.get("name")) # no error
