@@ -7,10 +7,10 @@ This repo tracks my consistent journey of improving problem-solving skills, codi
 
 ## 📅 Goal
 
-* Practice Python **daily**
-* Strengthen **logic building & problem solving**
-* Prepare for **placements / coding interviews / exams like GATE**
-* Build consistency and discipline
+- Practice Python **daily**
+- Strengthen **logic building & problem solving**
+- Prepare for **placements / coding interviews / exams like GATE**
+- Build consistency and discipline
 
 ---
 
@@ -18,10 +18,10 @@ This repo tracks my consistent journey of improving problem-solving skills, codi
 
 ```
 📂 Python-Daily-Practice
- ┣ 📂 Day-01
+ ┣ 📂 Topic-01
  ┃ ┣ 📜 problem1.py
  ┃ ┣ 📜 problem2.py
- ┣ 📂 Day-02
+ ┣ 📂 Topic-02
  ┃ ┣ 📜 problem1.py
  ┗ 📜 README.md
 ```
@@ -32,23 +32,23 @@ This repo tracks my consistent journey of improving problem-solving skills, codi
 
 ### 🔹 Beginner Level
 
-* Variables & Data Types
-* Input / Output
-* Operators
-* Conditional Statements (if-else)
-* Loops (for, while)
+- Variables & Data Types
+- Input / Output
+- Operators
+- Conditional Statements (if-else)
+- Loops (for, while)
 
 ### 🔹 Intermediate Level
 
-* Functions
-* Lists, Tuples, Sets, Dictionaries
-* String Manipulation
-* Recursion
-* File Handling
+- Functions
+- Lists, Tuples, Sets, Dictionaries
+- String Manipulation
+- Recursion
+- File Handling
 
 ### 🔹 Advanced Level
 
-* OOP (Classes & Objects)
-* Exception Handling
-* Modules & Packages
-* Iterators & Generators
+- OOP (Classes & Objects)
+- Exception Handling
+- Modules & Packages
+- Iterators & Generators
